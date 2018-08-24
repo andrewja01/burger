@@ -1,6 +1,6 @@
 # **Eat-Da-Burger**
 
-An application that takes allows the user to add a burger to the menu and then gives them the option to devour that burger. [Try it out!](https://eat-da-burger-andyj.herokuapp.com/)
+An application that allows the user to add a burger to the menu and then gives them the option to devour that burger. [Try it out!](https://eat-da-burger-andyj.herokuapp.com/)
 
 ## Demo
 
