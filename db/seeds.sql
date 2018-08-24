@@ -7,4 +7,4 @@ INSERT INTO burgers (burger_name, devoured)
 VALUES ('Baconator', FALSE);
 
 INSERT INTO burgers (burger_name, devoured)
-VALUES ('Big Texas', FALSE);
+VALUES ('Whopper', FALSE);

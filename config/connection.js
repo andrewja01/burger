@@ -1,6 +1,5 @@
 require("dotenv").config();
 const mysql = require("mysql");
-const addKeys = require("../keys.js")
 
 let connection = mysql.createConnection({
     host: "localhost",
