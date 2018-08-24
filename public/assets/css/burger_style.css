@@ -1,3 +1,5 @@
-html {
-    background-color: #f7f738;
+html,
+body,
+.container-fluid {
+    background-color: #cfcf34;
 }
